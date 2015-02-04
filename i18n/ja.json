@@ -1,0 +1,6 @@
+{
+  "@metadata": {
+    "authors": ["uta"]
+  },
+  "mysql-like-search-desc": "インデックスサーチの代わりに全文検索を実施する"
+}

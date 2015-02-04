@@ -1,0 +1,6 @@
+{
+  "@metadata": {
+    "authors": ["uta"]
+  },
+  "mysql-like-search-desc": "Implements a like search instead of the index search"
+}

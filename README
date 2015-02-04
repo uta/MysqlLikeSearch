@@ -1,0 +1,33 @@
+== About ==
+
+MysqlLikeSearch is an extension of the MediaWiki.
+This extension implements a like search instead of the index search.
+
+
+For more information:
+  * https://github.com/uta/MysqlLikeSearch
+
+
+
+== Requirement ==
+
+MediaWiki 1.24+
+
+
+
+== Download ==
+
+You can get the code directly from Git.
+
+$ git clone https://github.com/uta/MysqlLikeSearch.git
+
+
+
+== Installation ==
+
+Once you have downloaded the code, place the ''MysqlLikeSearch'' directory
+to extensions directory of your MediaWiki.
+
+Then add the following code to your LocalSettings.php:
+
+require_once( "$IP/extensions/MysqlLikeSearch/MysqlLikeSearch.php" );
